@@ -2,3 +2,31 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+
+body {
+  background: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+td, p {
+  font-size:1.5em;
+}
+
+th {
+  font-size:2em;
+}
+
+.field {
+  font-size:1.5em;
+}
+
+.links {
+  font-size: 1.5em;
+  margin-top:1.5em;
+}
+
+
